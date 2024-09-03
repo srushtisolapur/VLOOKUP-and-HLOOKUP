@@ -30,4 +30,4 @@ The VLOOKUP function is used in this project to find a student's marks in a spec
 
 ## Conclusion
 
-This README provides an overview of the purpose and functionality of the Excel sheet, with a focus on explaining the VLOOKUP function. You can use or adapt this for your GitHub repository. &#8203;:contentReference[oaicite:0]{index=0}&#8203;
+This README provides an overview of the purpose and functionality of the Excel sheet, with a focus on explaining the VLOOKUP function. 
