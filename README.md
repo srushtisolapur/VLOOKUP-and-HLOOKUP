@@ -26,6 +26,7 @@ The VLOOKUP function is used in this project to find a student's marks in a spec
 
 ```excel
 =VLOOKUP("Srushti", A2:F4, 2, FALSE)
+```
 
 ## Conclusion
 
